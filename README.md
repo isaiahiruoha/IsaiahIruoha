@@ -9,7 +9,7 @@
 # Isaiah Iruoha
 
 **Computer Engineering @ Queen's University**  
-*AI Stream • Software Development • Quantitative Trading*
+*Software Development • Quantitative Finance*
 
 [![Website](https://img.shields.io/badge/isaiahiruoha.com-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://isaiahiruoha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaiahiruoha)
